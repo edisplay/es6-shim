@@ -283,5 +283,5 @@ The project was initially based on es6-shim by Axel Rauschmayer.
 [downloads-url]: https://npm-stat.com/charts.html?package=es6-shim
 [codecov-image]: https://codecov.io/gh/paulmillr/es6-shim/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/paulmillr/es6-shim/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/paulmillr/es6-shim
+[actions-image]: https://img.shields.io/github/check-runs/paulmillr/es6-shim/master
 [actions-url]: https://github.com/paulmillr/es6-shim/actions
